@@ -95,3 +95,18 @@ main a[href="mailto:"] {
     font-weight: bold;
 
 }
+<!--Page sections of the Web-->
+
+.heading {
+
+    font-style: oblique;
+
+
+}
+
+.logo {
+
+    background-color: red;
+    color: white;
+    
+}
