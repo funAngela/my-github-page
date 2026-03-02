@@ -9,7 +9,7 @@ body{
 }
 
 header {
-    background-color: #4caf50;
+    background-color: #000701;
 
     color: white;
 
@@ -38,9 +38,9 @@ main {
 
 main img {
 
-    max-width: 100%;
+    max-width: 50%;
 
-    height: auto;
+    height: fit-content;
 
     display: block;
 
@@ -95,24 +95,17 @@ main a[href="mailto:"] {
     font-weight: bold;
 
 }
-<!--Page sections of the Web-->
 
-.heading {
-
-    font-style: oblique;
-
-
-}
-
-title {
-
-    background-color: red;
-    color: white;
-    
-}
 
 .VS {
 
-    background-color: Black;
+    background-color: rgb(184, 17, 17);
     color: white;
+}
+
+.Images {
+
+
+    border: 5px;
+    image-resolution: initial;
 }
