@@ -96,16 +96,14 @@ main a[href="mailto:"] {
 
 }
 
+.carousel, .carousel-item.active, .carousel-item {
 
-.VS {
-
-    background-color: rgb(184, 17, 17);
-    color: white;
+    height: 500px;
+    width: 70%;
 }
 
-.Images {
+.carousel-item img {
 
-
-    border: 5px;
-    image-resolution: initial;
+    height: 100%;
+    width: 100%;
 }
