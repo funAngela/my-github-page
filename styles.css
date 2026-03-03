@@ -90,14 +90,3 @@ img {
 
 
 
-.carousel, .carousel-item.active, .carousel-item {
-
-    height: 500px;
-    width: 70%;
-}
-
-.carousel-item img {
-
-    height: 100%;
-    width: 100%;
-}
