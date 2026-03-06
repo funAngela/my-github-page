@@ -5,14 +5,14 @@
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-image: url(background-image.jpg);
+            background-image: url(B-2.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
         }
         form {
             width: 400px;
-            background-color: rgba(225, 255, 255, 0.5);
+            background-color: rgba(225, 255, 300, 0.5);
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
