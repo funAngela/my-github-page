@@ -5,7 +5,7 @@
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-image: url(B-2.jpg);
+            background-image: url(background-image.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
@@ -60,3 +60,59 @@
             border-radius: 5px;
             cursor: pointer;
         }
+
+         
+
+ 
+
+table { 
+
+  border-collapse: collapse; 
+
+  width: 100%; 
+
+} 
+
+ 
+
+th, td { 
+
+  text-align: left; 
+
+  padding: 8px; 
+
+} 
+
+ 
+
+tr:nth-child(even) { 
+
+  background-color: #D6EEEE; 
+
+} 
+
+ 
+
+h2 { 
+
+    font-style: oblique; 
+
+    background-color:gold; 
+
+} 
+
+ 
+
+.au { 
+
+    color: green; 
+
+} 
+
+ 
+
+.sold { 
+
+        color: red; 
+
+} 
