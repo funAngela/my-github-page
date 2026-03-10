@@ -97,15 +97,13 @@ h2 {
 
     font-style: oblique; 
 
-    background-color:gold; 
-
 } 
 
  
 
 .au { 
 
-    color: green; 
+    color: rgb(231, 217, 11); 
 
 } 
 
@@ -116,3 +114,8 @@ h2 {
         color: red; 
 
 } 
+.available{
+
+    color: greenyellow;
+}
+
