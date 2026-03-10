@@ -40,11 +40,11 @@ main img {
 
     max-width: 50%;
 
-    height: fit-content;
+    height: 400px;
 
     display: block;
 
-    margin: 20px 0;
+    margin: 10px;
 }
 
 footer {
@@ -80,3 +80,8 @@ a:hover {
     text-decoration: underline;
 }
 
+.container mt-3{
+
+
+
+}
